@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+
+#main{
+	width: 1024px;
+	height: 768px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.in{
+	display: none;
+}
